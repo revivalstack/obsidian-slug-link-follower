@@ -1,0 +1,10 @@
+{
+	"id": "slug-link-follower",
+	"name": "Slug Link Follower",
+	"version": "1.0.0",
+	"minAppVersion": "1.18.10",
+	"description": "This plugin enables following slug-based markdown links (e.g., #my-heading) to their corresponding headers within the same note.",
+	"author": "Mic Mejia",
+	"authorUrl": "https://github.com/revivalstack/obsidian-slug-link-follower",
+	"isDesktopOnly": false
+}
